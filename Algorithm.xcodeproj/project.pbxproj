@@ -227,7 +227,15 @@
 		65744CBC1C554DED0011C977 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				F6DC0CF31F078AAF0087E2C3 /* AlgorithmTests */,
 				65744CBE1C554DED0011C977 /* Info.plist */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		F6DC0CF31F078AAF0087E2C3 /* AlgorithmTests */ = {
+			isa = PBXGroup;
+			children = (
 				65744D0A1C554F0E0011C977 /* DequeTests.swift */,
 				65744D0B1C554F0E0011C977 /* DoublyLinkedListTests.swift */,
 				65744D0C1C554F0E0011C977 /* ProbabilityTests.swift */,
@@ -240,7 +248,7 @@
 				65744D131C554F0E0011C977 /* StackTests.swift */,
 				961E6C3C1DDF9E64004E6C93 /* SampleTests.swift */,
 			);
-			path = Tests;
+			path = AlgorithmTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
